@@ -19,7 +19,7 @@ directly with pip.
 
 .. code:: sh
 
-    pip install amadeus==1.0.0b8
+    pip install amadeus
 
 Getting Started
 ---------------
